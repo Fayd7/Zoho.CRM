@@ -26,12 +26,6 @@ Automated workflows (welcome emails, follow-up tasks, deal tracking)
 
 Sales reports and dashboards (funnel analysis, win/loss, forecasts, product performance)
 
-Documentation
-
-The full portfolio with step-by-step setup, screenshots, and explanations is available here:
-
-View Portfolio PDF
-
 Screenshots
 
 Some key screenshots from the CRM setup are included in the docs/screenshots/ folder.
